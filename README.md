@@ -2,9 +2,13 @@
 
 This repository contains lecture notes and Python implementation of methods studied within the Modeling of Complex Systems course.
 
-## Contents
+## Documentation
 
-Lecture 2. Krylov method of solving linear differential equation systems as a base for TMM: `docs/krylov_method.md`.
+**Lecture 1**. Solving a Complex 1D Problem by a Transfer Matrix Method (TMM):
+`docs/transfer_matrix_method.md`.
+
+**Lecture 2**. Krylov Method of Solving Linear Differential Equation Systems as a Base for TMM:
+`docs/krylov_method.md`.
 
 ## Literature
 
