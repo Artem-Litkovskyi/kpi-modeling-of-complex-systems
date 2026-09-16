@@ -1,6 +1,10 @@
 # Modeling of Complex Systems
 
-This repository contains lecture conspects and Python implementation of methods studied within the Modeling of Complex Systems course.
+This repository contains lecture notes and Python implementation of methods studied within the Modeling of Complex Systems course.
+
+## Contents
+
+Lecture 2. Krylov method of solving linear differential equation systems as a base for TMM: `docs/krylov_method.md`.
 
 ## Literature
 
